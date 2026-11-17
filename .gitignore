@@ -1,0 +1,14 @@
+venv/
+.env
+vector_db/
+data/
+ocr_cache/
+__pycache__/
+*.pdf
+check_pdf.py
+check_pdf2.py
+debug_app.py
+hello.py
+test_gemini.py
+list_models.py
+test_speed.py
